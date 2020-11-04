@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/Triangle-VerTexGradCol.dir/main.cpp.o  -o Triangle-VerTexGradCol -rdynamic -lGLU -lGL -lglfw -lGLEW 
