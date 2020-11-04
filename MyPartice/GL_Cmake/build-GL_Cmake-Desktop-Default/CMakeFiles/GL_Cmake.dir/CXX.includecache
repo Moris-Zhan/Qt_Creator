@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leyan/User/GL_Cmake/main.cpp
+iostream
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+stdlib.h
+-
+

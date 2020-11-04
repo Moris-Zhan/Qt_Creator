@@ -1,0 +1,3 @@
+/home/leyan/User/Triangle-VerTexGradCol/build-Triangle-VerTexGradCol-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/leyan/User/Triangle-VerTexGradCol/build-Triangle-VerTexGradCol-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/leyan/User/Triangle-VerTexGradCol/build-Triangle-VerTexGradCol-Desktop-Default/CMakeFiles/Triangle-VerTexGradCol.dir

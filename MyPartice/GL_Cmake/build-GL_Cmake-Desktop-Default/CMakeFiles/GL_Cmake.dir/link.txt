@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/GL_Cmake.dir/main.cpp.o  -o GL_Cmake -rdynamic -lGLU -lGL -lglfw -lGLEW 

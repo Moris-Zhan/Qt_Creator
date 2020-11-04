@@ -1,0 +1,3 @@
+/home/leyan/User/Triangle-ChangCol/build-Triangle-ChangCol-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/leyan/User/Triangle-ChangCol/build-Triangle-ChangCol-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/leyan/User/Triangle-ChangCol/build-Triangle-ChangCol-Desktop-Default/CMakeFiles/Triangle-ChangCol.dir

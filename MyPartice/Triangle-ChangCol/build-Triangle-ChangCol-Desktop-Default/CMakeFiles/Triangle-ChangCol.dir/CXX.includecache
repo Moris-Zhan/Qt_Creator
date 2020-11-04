@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leyan/User/Triangle-ChangCol/main.cpp
+iostream
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+stdlib.h
+-
+math.h
+/home/leyan/User/Triangle-ChangCol/math.h
+

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="Texture" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/leyan/User/Texture/build-Texture-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/leyan/User/Texture/build-Texture-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/leyan/User/Texture/build-Texture-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Texture">
+         <Option output="/home/leyan/User/Texture/build-Texture-Desktop-Default/Texture" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/leyan/User/Texture/build-Texture-Desktop-Default" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/leyan/User/Texture/Mylib" />
+            <Add directory="/home/leyan/User/Texture/Source" />
+            <Add directory="/home/leyan/User/Texture/shaderSource" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 Texture" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Texture/fast">
+         <Option output="/home/leyan/User/Texture/build-Texture-Desktop-Default/Texture" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/leyan/User/Texture/build-Texture-Desktop-Default" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/leyan/User/Texture/Mylib" />
+            <Add directory="/home/leyan/User/Texture/Source" />
+            <Add directory="/home/leyan/User/Texture/shaderSource" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 Texture/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/Texture/build-Texture-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/leyan/User/Texture/Mylib/gl_setup.cpp">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/Mylib/gl_setup.h">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/Mylib/shader.cpp">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/Mylib/shader.h">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/Mylib/stb_image.h">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/Mylib/texture.cpp">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/Mylib/texture.h">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/img/awesomeface.png">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/img/container.jpg">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/img/cover.jpg">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/img/face.png">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/main.cpp">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/shaderSource/fragmentShaderSource.glsl">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/shaderSource/vertexShaderSource.glsl">
+         <Option target="Texture"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/Texture/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/Triangle-ChangCol.dir/main.cpp.o  -o Triangle-ChangCol -rdynamic -lGLU -lGL -lglfw -lGLEW 

@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/Texture.dir/main.cpp.o CMakeFiles/Texture.dir/Mylib/texture.cpp.o CMakeFiles/Texture.dir/Mylib/shader.cpp.o CMakeFiles/Texture.dir/Mylib/gl_setup.cpp.o  -o Texture -rdynamic -lGLU -lGL -lglfw -lGLEW 
