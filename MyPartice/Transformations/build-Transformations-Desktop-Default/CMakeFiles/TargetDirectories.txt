@@ -1,0 +1,3 @@
+/home/leyan/User/Transformations/build-Transformations-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/leyan/User/Transformations/build-Transformations-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/leyan/User/Transformations/build-Transformations-Desktop-Default/CMakeFiles/Transformations.dir
