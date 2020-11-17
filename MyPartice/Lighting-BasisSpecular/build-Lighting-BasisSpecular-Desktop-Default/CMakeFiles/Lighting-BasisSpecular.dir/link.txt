@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/Lighting-BasisSpecular.dir/main.cpp.o CMakeFiles/Lighting-BasisSpecular.dir/Mylib/camera.cpp.o CMakeFiles/Lighting-BasisSpecular.dir/Mylib/gl_setup.cpp.o CMakeFiles/Lighting-BasisSpecular.dir/Mylib/shader.cpp.o CMakeFiles/Lighting-BasisSpecular.dir/Mylib/texture.cpp.o  -o Lighting-BasisSpecular -rdynamic -lGLU -lGL -lglfw -lGLEW 

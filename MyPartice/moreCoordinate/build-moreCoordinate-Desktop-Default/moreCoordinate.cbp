@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="moreCoordinate" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="moreCoordinate">
+         <Option output="/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/moreCoordinate" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/leyan/User/moreCoordinate/Mylib" />
+            <Add directory="/home/leyan/User/moreCoordinate/Source" />
+            <Add directory="/home/leyan/User/moreCoordinate/shaderSource" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 moreCoordinate" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="moreCoordinate/fast">
+         <Option output="/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/moreCoordinate" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/leyan/User/moreCoordinate/Mylib" />
+            <Add directory="/home/leyan/User/moreCoordinate/Source" />
+            <Add directory="/home/leyan/User/moreCoordinate/shaderSource" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 moreCoordinate/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/leyan/User/moreCoordinate/build-moreCoordinate-Desktop-Default/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/leyan/User/moreCoordinate/Mylib/gl_setup.cpp">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/Mylib/gl_setup.h">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/Mylib/shader.cpp">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/Mylib/shader.h">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/Mylib/stb_image.h">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/Mylib/texture.cpp">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/Mylib/texture.h">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/img/awesomeface.png">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/img/container.jpg">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/img/cover.jpg">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/img/face.png">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/main.cpp">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/shaderSource/fragmentShaderSource.glsl">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/shaderSource/vertexShaderSource.glsl">
+         <Option target="moreCoordinate"/>
+      </Unit>
+      <Unit filename="/home/leyan/User/moreCoordinate/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

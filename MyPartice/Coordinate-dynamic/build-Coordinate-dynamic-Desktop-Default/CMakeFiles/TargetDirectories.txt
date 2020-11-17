@@ -1,0 +1,3 @@
+/home/leyan/User/Coordinate-dynamic/build-Coordinate-dynamic-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/leyan/User/Coordinate-dynamic/build-Coordinate-dynamic-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/leyan/User/Coordinate-dynamic/build-Coordinate-dynamic-Desktop-Default/CMakeFiles/Coordinate-dynamic.dir

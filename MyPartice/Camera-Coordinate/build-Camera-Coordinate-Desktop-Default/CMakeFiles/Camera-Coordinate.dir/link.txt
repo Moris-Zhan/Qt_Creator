@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/Camera-Coordinate.dir/main.cpp.o CMakeFiles/Camera-Coordinate.dir/Mylib/camera.cpp.o CMakeFiles/Camera-Coordinate.dir/Mylib/gl_setup.cpp.o CMakeFiles/Camera-Coordinate.dir/Mylib/shader.cpp.o CMakeFiles/Camera-Coordinate.dir/Mylib/texture.cpp.o  -o Camera-Coordinate -rdynamic -lGLU -lGL -lglfw -lGLEW 

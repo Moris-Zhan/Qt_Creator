@@ -1,0 +1,3 @@
+/home/leyan/openGL/MyPartice/Lighting-BasisSpecular/build-Lighting-BasisSpecular-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/leyan/openGL/MyPartice/Lighting-BasisSpecular/build-Lighting-BasisSpecular-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/leyan/openGL/MyPartice/Lighting-BasisSpecular/build-Lighting-BasisSpecular-Desktop-Default/CMakeFiles/Lighting-BasisSpecular.dir

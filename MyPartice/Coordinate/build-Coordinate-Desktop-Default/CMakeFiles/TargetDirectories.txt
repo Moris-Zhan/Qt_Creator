@@ -1,0 +1,3 @@
+/home/leyan/User/Coordinate/build-Coordinate-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/leyan/User/Coordinate/build-Coordinate-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/leyan/User/Coordinate/build-Coordinate-Desktop-Default/CMakeFiles/Coordinate.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/Ambient-lighting.dir/main.cpp.o CMakeFiles/Ambient-lighting.dir/Mylib/camera.cpp.o CMakeFiles/Ambient-lighting.dir/Mylib/gl_setup.cpp.o CMakeFiles/Ambient-lighting.dir/Mylib/shader.cpp.o CMakeFiles/Ambient-lighting.dir/Mylib/texture.cpp.o  -o Ambient-lighting -rdynamic -lGLU -lGL -lglfw -lGLEW 

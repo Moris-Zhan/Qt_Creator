@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/Coordinate.dir/main.cpp.o CMakeFiles/Coordinate.dir/Mylib/texture.cpp.o CMakeFiles/Coordinate.dir/Mylib/shader.cpp.o CMakeFiles/Coordinate.dir/Mylib/gl_setup.cpp.o  -o Coordinate -rdynamic -lGLU -lGL -lglfw -lGLEW 

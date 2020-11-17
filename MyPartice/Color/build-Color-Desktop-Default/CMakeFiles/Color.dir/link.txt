@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/Color.dir/main.cpp.o CMakeFiles/Color.dir/Mylib/camera.cpp.o CMakeFiles/Color.dir/Mylib/gl_setup.cpp.o CMakeFiles/Color.dir/Mylib/shader.cpp.o CMakeFiles/Color.dir/Mylib/texture.cpp.o  -o Color -rdynamic -lGLU -lGL -lglfw -lGLEW 
